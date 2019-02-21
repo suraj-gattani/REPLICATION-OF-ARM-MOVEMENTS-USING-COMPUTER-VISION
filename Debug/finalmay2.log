@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SkeletonBasics-D2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  SkeletonBasics.cpp
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(486): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(487): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(488): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(489): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(454): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(469): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(483): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(492): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(506): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(514): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+  main.cpp
+  Generating Code...
+c:\users\aditya\desktop\finalmay2\skeletonbasics.cpp(29): warning C4700: uninitialized local variable 'bRet' used
+  finalmay2.vcxproj -> C:\Users\ADITYA\Desktop\Finalmay2\Debug\finalmay2.exe
+  finalmay2.vcxproj -> C:\Users\ADITYA\Desktop\Finalmay2\Debug\finalmay2.pdb (Full PDB)

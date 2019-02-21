@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (SkeletonBasics-D2D.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  SkeletonBasics.cpp
+SkeletonBasics.cpp(486): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+SkeletonBasics.cpp(487): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+SkeletonBasics.cpp(488): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+SkeletonBasics.cpp(489): warning C4244: 'initializing': conversion from 'double' to 'INT', possible loss of data
+SkeletonBasics.cpp(454): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+SkeletonBasics.cpp(469): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+SkeletonBasics.cpp(483): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+SkeletonBasics.cpp(492): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+SkeletonBasics.cpp(506): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+SkeletonBasics.cpp(514): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note: see declaration of 'swprintf'
+  Source.cpp
+  Generating code
+c:\users\aditya\desktop\final project\april 1st 2 motors\skeletonbasics.cpp(29): warning C4700: uninitialized local variable 'bRet' used
+c:\users\aditya\desktop\final project\april 1st 2 motors\skeletonbasics.cpp(29): warning C4700: uninitialized local variable 'bRet' used
+  All 58 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SkeletonBasics-D2D.vcxproj -> C:\Users\ADITYA\Desktop\final project\april 1st 2 motors\Release\finalmay2.exe
+  SkeletonBasics-D2D.vcxproj -> C:\Users\ADITYA\Desktop\final project\april 1st 2 motors\Release\finalmay2.pdb (Full PDB)
